@@ -1,0 +1,50 @@
+#box {
+    width: 230px;
+    height: 350px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+body {
+
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin-top: 100px;
+
+
+
+}
+
+img {
+    width: 210px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+#headfont {
+    text-align: center;
+    padding: 1px 12px;
+    margin-top: 0%;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: "Outfits", sans-serif;
+
+}
+
+#footerpara p {
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    top: 0%;
+    bottom: 5px;
+    font-weight: 400;
+    margin: 1px 4px;
+    padding-left:3px ;
+    padding-top: 2px;
+    color: hsl(220, 15%, 55%);
+    font-family: "Outfits", sans-serif;
+} 
